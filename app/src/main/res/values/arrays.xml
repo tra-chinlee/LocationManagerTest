@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="location_provider_status">
+        <item>out of service</item>
+        <item>temporarily unavailable</item>
+        <item>available</item>
+    </string-array>
+
+</resources>

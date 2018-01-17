@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationManagerTest</string>
+
+    <string name="enable_location_service_title">Enable location service</string>
+    <string name="enable_location_service_message">Please enable location service</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Setting</string>
+    <string name="network_provider">network provider</string>
+    <string name="gps_provider">gps provider</string>
+    <string name="enabled">enabled:</string>
+    <string name="status">status:</string>
+    <string name="location">location:</string>
+    <string name="false_">false</string>
+    <string name="true_">true</string>
+
+</resources>
